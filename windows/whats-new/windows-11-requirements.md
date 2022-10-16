@@ -32,7 +32,7 @@ To install or upgrade to Windows 11, devices must meet the following minimum har
 - TPM: [Trusted Platform Module](/windows/security/information-protection/tpm/trusted-platform-module-overview) (TPM) version 2.0.
 - Display: High definition (720p) display, 9" or greater monitor, 8 bits per color channel.
 - Internet connection: Internet connectivity is necessary to perform updates, and to download and use some features. 
-  - Windows 11 Home edition requires an Internet connection and a Microsoft Account to complete device setup on first use.
+  - Windows 11 Home edition and Windows 11 Pro edition for personal use requires an Internet connection and a Microsoft Account to complete device setup on first use.
 
 \* There might be more requirements over time for updates, and to enable specific features within the operating system. For more information, see [Windows 11 specifications](https://www.microsoft.com/windows/windows-11-specifications). 
 
